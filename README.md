@@ -17,7 +17,9 @@ You just need to have a computer with a Linux distribution installed. There is a
 ## Cheat Sheets
 
 #### Basics Cheatsheet
+
 ![Basics Cheatsheet](sql-basics-cheat-sheet.png)
 
 #### Advanced Cheatsheet
-![Advanced Cheatsheet](sql-basics-cheat-sheet-advence.png)
+
+![Advanced Cheatsheet](sql-basics-cheat-sheet-advance.png)
