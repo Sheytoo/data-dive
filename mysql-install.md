@@ -1,12 +1,16 @@
 # Installation of MySQL Server on Linux
 
-## TABLE OF CONTENTS
+This guide will walk you through the installation of MySQL on a Linux system. We'll be using Ubuntu for this example, but the steps should be similar for other Linux distributions.
 
-- [Install MySQL Server](#install-mysql-server)
-- [Start MySQL Server](#start-mysql-server)
-- [Configure MySQL Server](#configure-mysql-server)
-- [Create a MySQL User and Grant Privileges](#create-a-mysql-user-and-grant-privileges)
-- [References](#references)
+## Table of Contents
+
+1. [Install MySQL Server](#install-mysql-server)
+2. [Start MySQL Server](#start-mysql-server)
+3. [Configure MySQL Server](#configure-mysql-server)
+4. [Create a MySQL User and Grant Privileges](#create-a-mysql-user-and-grant-privileges)
+5. [References](#references)
+
+---
 
 ## Install MySQL Server
 
@@ -24,6 +28,8 @@ sudo dnf update
 sudo dnf install mysql-server
 ```
 
+---
+
 ## Start MySQL Server
 
 ### Ubuntu and Fedora
@@ -37,6 +43,8 @@ sudo systemctl start mysql.service
 ```bash
 sudo systemctl status mysql.service
 ```
+
+---
 
 ## Configure MySQL Server
 
@@ -73,6 +81,8 @@ Once the security script completes, you can then reopen MySQL and change the **r
 ```bash
 mysql -u root -p
 ```
+
+---
 
 ## Create a MySQL User and Grant Privileges
 
@@ -112,6 +122,6 @@ exit
 mysql -u username -p
 ```
 
-## References
+---
 
-Inspired by [How To Install MySQL on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-22-04) that I invite you to read.
+And there you have it! You've successfully installed MySQL on your Linux system. Inspired by [How To Install MySQL on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-22-04) that I invite you to read.

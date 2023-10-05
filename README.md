@@ -12,7 +12,8 @@ You just need to have a computer with a Linux distribution installed. There is a
 
 ## Resources
 
-- [Installation of MySQL Server on Linux](mysql-install.md)
+1. [Installation of MySQL Server on Linux](mysql-install.md)
+2. [Database and Table Creation & Data Manipulation](creation-and-manipulation.md)
 
 ## Cheat Sheets
 
@@ -23,3 +24,9 @@ You just need to have a computer with a Linux distribution installed. There is a
 #### Advanced Cheatsheet
 
 ![Advanced Cheatsheet](sql-basics-cheat-sheet-advance.png)
+
+## All References
+
+- [How To Install MySQL on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-22-04)
+- [SQL Data Types](https://www.w3schools.com/sql/sql_datatypes.asp)
+- [SQL Constraints](https://www.w3schools.com/sql/sql_constraints.asp)
