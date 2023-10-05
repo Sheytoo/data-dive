@@ -124,4 +124,4 @@ mysql -u username -p
 
 ---
 
-And there you have it! You've successfully installed MySQL on your Linux system. Inspired by [How To Install MySQL on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-22-04) that I invite you to read.
+And there you have it! You've successfully installed MySQL on your Linux system. Inspired by <a href="https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-22-04" target="_blank">How To Install MySQL on Ubuntu 22.04</a> that I invite you to read.

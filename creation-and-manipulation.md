@@ -110,5 +110,5 @@ And that's it for this section! You've learned how to create a database and a ta
 
 ## Resources
 
-- [SQL Data Types](https://www.w3schools.com/sql/sql_datatypes.asp)
-- [SQL Constraints](https://www.w3schools.com/sql/sql_constraints.asp)
+- <a href="https://www.w3schools.com/sql/sql_datatypes.asp" target="_blank">SQL Data Types</a>
+- <a href="https://www.w3schools.com/sql/sql_constraints.asp" target="_blank">SQL Constraints</a>

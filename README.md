@@ -27,6 +27,6 @@ You just need to have a computer with a Linux distribution installed. There is a
 
 ## All References
 
-- [How To Install MySQL on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-22-04)
-- [SQL Data Types](https://www.w3schools.com/sql/sql_datatypes.asp)
-- [SQL Constraints](https://www.w3schools.com/sql/sql_constraints.asp)
+- <a href="https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-22-04" target="_blank">How To Install MySQL on Ubuntu 22.04</a>
+- <a href="https://www.w3schools.com/sql/sql_datatypes.asp" target="_blank">SQL Data Types</a>
+- <a href="https://www.w3schools.com/sql/sql_constraints.asp" target="_blank">SQL Constraints</a>
