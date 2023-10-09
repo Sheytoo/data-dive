@@ -12,8 +12,9 @@ You just need to have a computer with a Linux distribution installed. There is a
 
 ## Resources
 
-1. [Installation of MySQL Server on Linux](mysql-install.md)
-2. [Database and Table Creation & Data Manipulation](creation-and-manipulation.md)
+1. [Installation of MySQL Server on Linux](part%201:%20installation/README.md)
+2. [Database and Table Creation & Data Manipulation](part%202:%20creation%20and%20manipulation/README.md)
+3. [Relationships between tables](part%203:%20relationships/README.md)
 
 ## Cheat Sheets
 
@@ -25,8 +26,14 @@ You just need to have a computer with a Linux distribution installed. There is a
 
 ![Advanced Cheatsheet](sql-basics-cheat-sheet-advance.png)
 
+#### All Types of JOINs
+
+![All Types of JOINs](types-joins-sql.png)
+
 ## All References
 
 - <a href="https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-22-04" target="_blank">How To Install MySQL on Ubuntu 22.04</a>
 - <a href="https://www.w3schools.com/sql/sql_datatypes.asp" target="_blank">SQL Data Types</a>
 - <a href="https://www.w3schools.com/sql/sql_constraints.asp" target="_blank">SQL Constraints</a>
+- <a href="https://www.w3schools.com/sql/sql_foreignkey.asp" target="_blank">SQL Foreign Key</a>
+- <a href="https://www.w3schools.com/sql/sql_join.asp" target="_blank">SQL Join</a>
