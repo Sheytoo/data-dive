@@ -12,9 +12,10 @@ You just need to have a computer with a Linux distribution installed. There is a
 
 ## Resources
 
-1. [Installation of MySQL Server on Linux](1-installation/README.md)
-2. [Database and Table Creation & Data Manipulation](2-creation_and_manipulation/README.md)
-3. [Relationships between tables](3-relationships_and_exercises/README.md)
+1. [Presentation](data-dive-powerpoint.pdf)
+2. [Installation of MySQL Server on Linux](1-installation/README.md)
+3. [Database and Table Creation & Data Manipulation](2-creation_and_manipulation/README.md)
+4. [Relationships between tables](3-relationships_and_exercises/README.md)
 
 ## Cheat Sheets
 
