@@ -8,7 +8,7 @@ INSERT INTO student (id, first_name, last_name, email, class_id) VALUES
     (1, 'John', 'Doe', 'john.doe@gmail.com', 1),
     (2, 'Jane', 'Doe', 'jane.doe@gmail.com', 1),
     (3, 'John', 'Smith', 'john.smith@gmail.com', 2),
-    (4, 'David', 'Williams', 'david.williams@gmail.com,', 2),
+    (4, 'David', 'Williams', 'david.williams@gmail.com', 2),
     (5, 'Maria', 'Garcia', 'maria.garcia@gmail.com', 3),
     (6, 'Mary', 'Davis', 'mary.davis@gmail.com', 3),
     (7, 'James', 'Brown', 'james@brown@gmail.com', 4),
@@ -28,7 +28,7 @@ INSERT INTO gender (id, label) VALUES
     (3, 'Poetry'),
     (4, 'Theatre');
 
-INSERT INTO book (id, name, author_id, gender_id, price) VALUES
+INSERT INTO book (id, title, author_id, gender_id, price) VALUES
     (1, 'Les Misérables', 2, 2, 10.99),
     (2, 'Notre-Dame de Paris', 2, 2, 9.99),
     (3, 'Les Fleurs du mal', 3, 3, 8.99),

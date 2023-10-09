@@ -104,15 +104,15 @@ Write an SQL query to retrieve a list of authors from the 'author' table, sorted
 
 ### Exercise: Display Books Borrowed by John Doe
 
-Write an SQL query to retrieve a list of books borrowed by `John Doe` from the **student** table. The output should include the columns `book_id` and `name` from the **book** table.
+Write an SQL query to retrieve a list of books borrowed by `John Doe` from the **student** table. The output should include the columns `book_id` and `title` from the **book** table.
 
 **Expected Result:**
 
 ```
-| book_id | name                 |
-|---------|----------------------|
-| 1       | Les Misérables       |
-| 4       | Le Spleen de Paris   |
+| book_id | title                      |
+|---------|----------------------------|
+| 3       | Les Fleurs du mal          |
+| 5       | Le Bourgeois gentilhomme   |
 ```
 
 ### Exercise: Display Books with the Genre 'Theatre'
@@ -135,10 +135,11 @@ Write an SQL query to retrieve students who borrowed a book before January 1, 20
 **Expected Result:**
 
 ```
-| id | first_name | last_name | email                  |
-|----|------------|-----------|------------------------|
-| 7  | James      | Brown     | james@brown@gmail.com  |
-| 5  | Maria      | Garcia    | maria.garcia@gmail.com |
+| id | first_name | last_name | email                   |
+|----|------------|-----------|-------------------------|
+| 8  | Robert     | Miller    | robert.miller@gmail.com |
+| 3  | John       | Smith     | john.smith@gmail.com    |
+| 6  | Mary       | Davis     | mary.davis@gmail.com    |
 ```
 
 ---
